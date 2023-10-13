@@ -1,6 +1,6 @@
 
 
-
+// singlton
 
 // Object Literal
 
