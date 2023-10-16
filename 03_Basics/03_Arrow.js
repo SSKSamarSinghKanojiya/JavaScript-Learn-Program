@@ -56,3 +56,5 @@ const user = {
 const addTwo = (num1, num2) => ({username:"Samar"})
 
 console.log(addTwo(10,20));
+
+console.log("Samar Singh Kanojiya");
